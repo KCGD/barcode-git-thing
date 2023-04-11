@@ -13,3 +13,7 @@ Nothing! It's a workshop and im not entirely sure what to put here.
 ## Here's the cat gif
 
 ![goofy ahh cat](https://i.redd.it/1gvpkpcf57h91.jpg)
+
+# LICENSE
+
+This repo is under the GPL v3 license
